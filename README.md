@@ -38,7 +38,7 @@ if __name__ == "__main__":
     main()
 
 ```
-
+run application 
 ```python
 python main.py
 ```
