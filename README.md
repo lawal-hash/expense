@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A brief description of what this project does and who it's for
+ExpenseTracker, a Python application, assesses and highlights object-oriented programming (OOP) skills in financial expense management. Comprising two pivotal classes, Expense and ExpenseDB, it models individual expenses with attributes like a unique identifier, title, amount, and timestamps in Coordinated Universal Time (UTC). The Expense class features methods for  updating details, and efficient conversion to a dictionary. As a manager for Expense objects, the ExpenseDB class facilitates addition, removal, retrieval of expenses.
 
 ## Run Locally
 
