@@ -1,6 +1,6 @@
 # Expense Tracker
 
-ExpenseTracker, a Python application, assesses and highlights object-oriented programming (OOP) skills in financial expense management. Comprising two pivotal classes, Expense and ExpenseDB, it models individual expenses with attributes like a unique identifier, title, amount, and timestamps in Coordinated Universal Time (UTC). The Expense class features methods for  updating details, and efficient conversion to a dictionary. As a manager for Expense objects, the ExpenseDB class facilitates addition, removal, retrieval of expenses.
+ExpenseTracker, a Python application,highlights object-oriented programming (OOP) skills in financial expense management. Comprising two pivotal classes, Expense and ExpenseDB, it models individual expenses with attributes like a unique identifier, title, amount, and timestamps in Coordinated Universal Time (UTC). The Expense class features methods for  updating details, and efficient conversion to a dictionary. As a manager for Expense objects, the ExpenseDB class facilitates addition, removal, retrieval of expenses.
 
 ## Run Locally
 
@@ -10,13 +10,11 @@ Clone the project
   git clone https://github.com/lawal-hash/ExpenseTracker.git
 ```
 
-Install dependencies
+change working directory
+
 
 ```bash
-  pip install poetry
   cd ExpenseTracker
-  poetry install --no-root
-  poetry shell
 ```
 
 ## Usage/Examples
